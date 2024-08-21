@@ -1,0 +1,3 @@
+displayName = A Random Mod
+author = WaterStylus331
+version = 0.0.1
