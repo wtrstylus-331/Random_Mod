@@ -1,0 +1,37 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	RandomSword: {
+		DisplayName: Random Sword
+		Tooltip: testing sword lol
+	}
+
+	SwitchBlade: {
+		DisplayName: Switchblade
+		Tooltip: A compact but fairly useful knife.
+	}
+
+	NTW20: {
+		DisplayName: NTW-20
+		Tooltip:
+			'''
+			Behemoth of a sniper rifle. Extremely fast muzzle velocity and high damage at the cost slow rate of fire.
+			Chambered in 20x110mm ammunition.
+			'''
+	}
+
+	NTWAmmo: {
+		DisplayName: 20x110mm
+		Tooltip: The largest caliber we could find, packs quite the punch.
+	}
+
+	MG42: {
+		DisplayName: MG42
+		Tooltip: A recoil-operated general-purpose machine gun. Also known as a buzzsaw due to its immense rate of fire.
+	}
+
+	MG42Ammo: {
+		DisplayName: 7.92x57mm
+		Tooltip: A decent cartridge known for its use in many rifles and machine guns.
+	}
+}

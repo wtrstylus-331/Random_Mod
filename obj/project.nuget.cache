@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XM3Uuk7W+FlcxI1saP6JHjqr8/6NhubQ3ibDFIWRY60Pf3IKDn/3ccm/eo/5HVpE9U3Zd98NxEKIJdwGJC057w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sri36\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\rand_mod\\rand_mod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sri36\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\sri36\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\sri36\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\sri36\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
